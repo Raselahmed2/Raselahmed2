@@ -3,13 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
 <h3 align="center">As a web developer and designer with a focus on the MERN stack, I am continuously driven by a passion for creating exceptional user experiences. My journey started with a deep fascination for the ever-evolving world of web development and a keen eye for design aesthetics. Over time, I have honed my skills in JavaScript, React, Node.js, and MongoDB, forming the foundation of my proficiency.
 
-To stay at the forefront of technology, I eagerly embrace new challenges and learning opportunities, which has led me to master Redux and TypeScript. These tools have empowered me to build scalable and maintainable applications, adding an extra layer of performance and reliability to my work.
-
-My creative mindset allows me to design engaging interfaces that captivate users, ensuring a seamless blend of form and function. Throughout my career, I have worked on various projects that span industries and have garnered valuable insights into user behavior and preferences.
-
-As an individual, my strong Islamic faith guides my values and principles, instilling a sense of responsibility and empathy in my interactions with colleagues and clients alike. My early marriage has further shaped my character, prioritizing my beloved wife and daughter, who serve as a constant source of motivation and inspiration.
-
-With a steadfast commitment to professionalism and collaboration, I am thrilled at the prospect of joining [Company Name] to contribute my expertise and collaborate with a team of talented individuals. My GitHub repositories are a testament to my dedication and love for coding, showcasing my journey as a web developer and designer. I am eager to make a meaningful impact and play a role in crafting the digital landscape of tomorrow. Let's connect and build something remarkable together!</h3>
+To stay at the forefront of technology, I eagerly embrace new challenges and learning opportunities, which has led me to master Redux and TypeScript. These tools have empowered me to build scalable and maintainable applications, adding an extra layer of performance and reliability to my work. Let's connect and build something remarkable together!</h3>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raselahmed2" alt="raselahmed2" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript,Redux**
