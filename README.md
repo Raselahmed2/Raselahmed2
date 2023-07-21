@@ -3,7 +3,7 @@
   
 <h1>About Me</h1>
 
-<h3> I'm an enthusiastic web developer with a love for crafting amazing digital experiences. My journey into the world of web development started with a fascination for technology and a desire to create captivating websites that leave a lasting impression on users.</h3>
+<h3> I'm a MERN stack web developer & designer. Constantly learning Redux & TypeScript. Crafting intuitive, visually stunning web solutions. Let's collaborate! </h3>
  
 <h4>- 🌱 I’m currently learning **TypeScript And Redux**</h4>
 
