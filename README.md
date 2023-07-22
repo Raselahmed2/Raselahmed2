@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://github.com/Raselahmed2">
     <img src="https://github.com/Raselahmed2/profile-img.jpg/blob/main/Screenshot_50.jpg" alt="Rasel Ahmed" /></a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
 </p>
 <h3  align="center"> I'm an enthusiastic web developer with a love for crafting amazing digital experiences. My journey into the world of web development started with a fascination for technology and a desire to create captivating websites that leave a lasting impression on users.</h3>
