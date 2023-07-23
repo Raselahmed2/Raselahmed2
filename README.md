@@ -4,40 +4,11 @@
 </p><p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
 </p>
-<h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development, my version of the digital world one step at a time.</h3>
 
-<h2>My Skills:</h2>
-<h3>
-<summary>Front-end Development:</summary>
-  <br>
-I have a deep understanding of modern front-end technologies like React.js, Redux, HTML5, CSS3, and JavaScript. I'm proficient in creating responsive and user-friendly interfaces that deliver exceptional user experiences across various devices.
-<br><br>
-<summary>Back-end Development:</summary>
-  <br>
-With Node.js and Express.js, I'm well-versed in building robust and scalable server-side applications. I have experience in designing RESTful APIs, handling authentication, and implementing database interactions using MongoDB or other NoSQL databases.<br>
-  <br>
-<summary>Full-stack Development:</summary>
-  <br>
-My expertise in both front-end and back-end development allows me to handle end-to-end development efficiently. I can seamlessly integrate the front-end and back-end components to create a fully functional and interactive web application.<br>
-<br>
-<summary>Database Management:</summary>
-  <br>
-I have worked extensively with MongoDB, designing and managing databases to ensure data integrity and efficient querying. I understand the importance of database optimization and can implement effective strategies for data storage and retrieval.<br>
-<br>
-<summary> Deployment and Version Control:</summary>
-<br>
-Proficient in using tools like Git and GitHub, I'm well-versed in version control and collaborative development. I have experience deploying applications on platforms like Heroku or AWS, ensuring smooth and continuous integration.<br>
-<br>
-<summary>Testing and Debugging:</summary>
-<br>
-I believe in writing clean and maintainable code. I conduct thorough testing and debugging to ensure that the applications I develop are stable, secure, and free from critical bugs.<br>
-<br>
-<summary>Problem-Solving and Adaptability:</summary><br>
-As a developer, I am always up for challenges. I enjoy problem-solving and believe in staying updated with the latest trends and technologies in the ever-evolving world of web development. I adapt quickly to new technologies, frameworks, and project requirements.
+<h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development,  passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind</h3>
 
-</h3>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+ <br>
+   <summary><h2>🛠️ My Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -138,74 +109,53 @@ As a developer, I am always up for challenges. I enjoy problem-solving and belie
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
+</p>
+
+- 📫 How to reach me **raselahmed199916@gmail.com**
+
   </p>
-
-
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
-
-  <a href="https://github.com/Raselahmed2?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/Raselahmed2/Apple-vision-Pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Apple-vision"></a>
-    <a href="https://github.com/Raselahmed2/Get-User-Location"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/Raselahmed2/OTP-send-with-react-firebase"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Raselahmed2/Marvel-API-App-With-Javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
-<a href="https://www.youtube.com/watch?v=TzR8At0SFQI"><img src="https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=1245" alt="Custom Help Commands [#1] Embeds - Python Discord Bot" title="Custom Help Commands [#1] Embeds - Python Discord Bot"></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-
-  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
   
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
-</details>
+<h2>My Skills:</h2>
 
-<details> 
+<h3>
+<summary>Front-end Development:</summary>
+ 
+  <br>
+I have a deep understanding of modern front-end technologies like React.js, Redux, HTML5, CSS3, and JavaScript. I'm proficient in creating responsive and user-friendly interfaces that deliver exceptional user experiences across various devices.
+<br><br>
+<summary>Back-end Development:</summary>
+
+  <br>
+With Node.js and Express.js, I'm well-versed in building robust and scalable server-side applications. I have experience in designing RESTful APIs, handling authentication, and implementing database interactions using MongoDB or other NoSQL databases.<br>
+  <br>
+<summary>Full-stack Development:</summary>
+<img align="right" alt="Coding" width="400" src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true">
+  
+  <br>
+My expertise in both front-end and back-end development allows me to handle end-to-end development efficiently. I can seamlessly integrate the front-end and back-end components to create a fully functional and interactive web application.<br>
+<br>
+<summary>Database Management:</summary>
+  <br>
+I have worked extensively with MongoDB, designing and managing databases to ensure data integrity and efficient querying. I understand the importance of database optimization and can implement effective strategies for data storage and retrieval.<br>
+<br>
+<summary> Deployment and Version Control:</summary>
+<br>
+Proficient in using tools like Git and GitHub, I'm well-versed in version control and collaborative development. I have experience deploying applications on platforms like Heroku or AWS, ensuring smooth and continuous integration.<br>
+<br>
+<summary>Testing and Debugging:</summary>
+<br>
+I believe in writing clean and maintainable code. I conduct thorough testing and debugging to ensure that the applications I develop are stable, secure, and free from critical bugs.<br>
+<br>
+<summary>Problem-Solving and Adaptability:</summary><br>
+As a developer, I am always up for challenges. I enjoy problem-solving and believe in staying updated with the latest trends and technologies in the ever-evolving world of web development. I adapt quickly to new technologies, frameworks, and project requirements.
+
+</h3>
+
+
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -220,30 +170,12 @@ As a developer, I am always up for challenges. I enjoy problem-solving and belie
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 💪 Opened PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#231](https://github.com/DenverCoder1/readme-typing-svg/issues/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#231](https://github.com/DenverCoder1/readme-typing-svg/pull/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#232](https://github.com/DenverCoder1/readme-typing-svg/issues/232) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-<!--END_SECTION:activity-->
-
 </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -256,3 +188,5 @@ As a developer, I am always up for challenges. I enjoy problem-solving and belie
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
+
+- 📫 How to reach me **raselahmed199916@gmail.com**
