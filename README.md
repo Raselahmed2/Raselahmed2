@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
 </p>
 
-<h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development,  passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind</h3>
+<h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development, passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind</h3>
 
  <br>
    <summary><h2>🛠️ My Tools</h2></summary>
