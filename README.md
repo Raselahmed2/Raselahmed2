@@ -4,8 +4,11 @@
 </p><p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
 </p>
-
+<p align="center">
+  <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="600">
+  </p>
 <h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development, passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind</h3>
+
 
  <br>
    <summary><h2>🛠️ My Tools</h2></summary>
@@ -67,7 +70,6 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
-
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -132,7 +134,7 @@ I have a deep understanding of modern front-end technologies like React.js, Redu
 With Node.js and Express.js, I'm well-versed in building robust and scalable server-side applications. I have experience in designing RESTful APIs, handling authentication, and implementing database interactions using MongoDB or other NoSQL databases.<br>
   <br>
 <summary>Full-stack Development:</summary>
-<img align="right" alt="Coding" width="400" src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true">
+
   
   <br>
 My expertise in both front-end and back-end development allows me to handle end-to-end development efficiently. I can seamlessly integrate the front-end and back-end components to create a fully functional and interactive web application.<br>
