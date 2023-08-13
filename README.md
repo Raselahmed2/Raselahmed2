@@ -3,6 +3,7 @@
     <img src="https://github.com/Raselahmed2/profile-img.jpg/blob/main/Screenshot_50.jpg" alt="Rasel Ahmed" /></a>
 </p><p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
+  
 </p>
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
@@ -41,7 +42,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰Frameworks and Libraries</h3>
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
