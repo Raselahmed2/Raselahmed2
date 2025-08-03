@@ -173,6 +173,7 @@
 
 <h2>## 📚 Training Background
 
+
 ### 🎓 Formal Trainings & Bootcamps
 
 | Title                                       | Topic / Focus                    | Platform / Mode             | Year | Duration    |
@@ -189,16 +190,6 @@
 
 ---
 
-### 🏅 Notable Certificates
-
-[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)**Google IT Support Professional Certificate** *(Coursera)* <br>
-[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)* <br>
-[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*<br>
-[![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)   **The Complete Web Developer Course** *(Udemy)* <br>
-[![IT Essentials](https://img.shields.io/badge/IT%20Essentials-Cisco%20Networking%20Academy-1D9BF0?logo=cisco&logoColor=white)](https://skillsforall.com)   **IT Essentials** *(Cisco Networking Academy)* <br>
- [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Basic%20Foundations-0A0A23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org) **CiscoFreeCodeCamp** *(free course)*
-
----
 
 ### 🧱 Learned From
 
@@ -207,9 +198,6 @@
 - ![Code With Mosh](https://img.shields.io/badge/Code%20with%20Mosh-Courses-00897B?logo=udemy&logoColor=white)   **Code with Mosh**
 -  ![Udemy](https://img.shields.io/badge/Udemy-Video%20Courses-A435F0?logo=udemy&logoColor=white) **Udemy**
 ![Coursera](https://img.shields.io/badge/Coursera-Certifications-0056D2?logo=coursera&logoColor=white) **Coursera**
-- 
--  ### 🧠 Training Highlight
-
 [![Android Dev Bootcamp](https://img.shields.io/badge/Android%20Bootcamp-6%20Months-3DDC84?logo=android&logoColor=white)]()  
 [![SQL & DB Design](https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3%20Months-4479A1?logo=mysql&logoColor=white)]()  
 [![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-2%20Months-F05032?logo=git&logoColor=white)]()  
@@ -222,6 +210,16 @@
 
 ---
 
+### 🏅 Notable Certificates
+
+[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)**Google IT Support Professional Certificate** *(Coursera)* <br>
+[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)* <br>
+[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*<br>
+[![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)   **The Complete Web Developer Course** *(Udemy)* <br>
+[![IT Essentials](https://img.shields.io/badge/IT%20Essentials-Cisco%20Networking%20Academy-1D9BF0?logo=cisco&logoColor=white)](https://skillsforall.com)   **IT Essentials** *(Cisco Networking Academy)* <br>
+ [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Basic%20Foundations-0A0A23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org) **CiscoFreeCodeCamp** *(free course)*
+
+---
 
 </h2>
 
