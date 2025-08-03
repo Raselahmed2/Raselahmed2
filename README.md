@@ -9,8 +9,8 @@
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
 <h3  align="center"><h2>👋 Hi, I'm Rasel Ahmed</h2> <h2>a professional MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
-💻 With over 6 years of hands-on experience in web development, I specialize in building modern, responsive, and scalable web apps using React, Next.js, Tailwind CSS, Node.js, and MongoDB.
-🚀 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimized performance.
+💻 With over 6 years of hands-on experience in web development, I specialise in building modern, responsive, and scalable web apps using React, Next.js, Tailwind CSS, Node.js, and MongoDB.
+🚀 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
 🧠 Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
 🎯 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
 </h2>
@@ -133,7 +133,7 @@
 
 ✅ React.js (Hooks, Context API)
 
-✅ Next.js (App Router, SSR, ISR, SEO Optimization)
+✅ Next.js (App Router, SSR, ISR, SEO Optimisation)
 
 ✅ Tailwind CSS, DaisyUI
 
@@ -208,6 +208,42 @@
 - 📺 **Udemy**
 - 🌐 **Coursera**
 - 💻 **freeCodeCamp**
+- ## 📚 Training & Certifications
+
+### 🧠 Training Highlights
+
+[![Android Dev Bootcamp](https://img.shields.io/badge/Android%20Bootcamp-6%20Months-3DDC84?logo=android&logoColor=white)]()  
+[![SQL & DB Design](https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3%20Months-4479A1?logo=mysql&logoColor=white)]()  
+[![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-2%20Months-F05032?logo=git&logoColor=white)]()  
+[![UI/UX Design](https://img.shields.io/badge/Responsive%20UI%20%26%20UX-2%20Months-0C7CD5?logo=figma&logoColor=white)]()  
+[![Agile & PM](https://img.shields.io/badge/Agile%20%26%20Project%20Management-2%20Months-FBA919?logo=agile&logoColor=white)]()  
+[![App Security](https://img.shields.io/badge/Mobile%20App%20Security-1%20Month-FF6F61?logo=android&logoColor=white)]()  
+[![REST API](https://img.shields.io/badge/REST%20API%20(Volley%20%2F%20Retrofit)-1%20Month-6DB33F?logo=postman&logoColor=white)]()  
+[![Jetpack & MVVM](https://img.shields.io/badge/Jetpack%20%2F%20MVVM-2%20Months-999999?logo=android&logoColor=white)]()  
+[![Android Testing](https://img.shields.io/badge/Unit%20%2F%20UI%20Testing-1%20Month-E91E63?logo=testing-library&logoColor=white)]()
+
+---
+
+### 🏅 Certifications
+
+[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)  
+[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)  
+[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)  
+[![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)  
+[![IT Essentials](https://img.shields.io/badge/IT%20Essentials-Cisco%20Networking%20Academy-1D9BF0?logo=cisco&logoColor=white)](https://skillsforall.com)  
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Basic%20Foundations-0A0A23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
+
+---
+
+### 🏫 Learned From
+
+![Programming Hero](https://img.shields.io/badge/Programming%20Hero-Bootcamp-FF5722?logo=codeforces&logoColor=white)  
+![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)  
+![Code With Mosh](https://img.shields.io/badge/Code%20with%20Mosh-Courses-00897B?logo=udemy&logoColor=white)  
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Open%20Source%20Learning-0A0A23?logo=freecodecamp&logoColor=white)  
+![Udemy](https://img.shields.io/badge/Udemy-Video%20Courses-A435F0?logo=udemy&logoColor=white)  
+![Coursera](https://img.shields.io/badge/Coursera-Certifications-0056D2?logo=coursera&logoColor=white)
+
 </h2>
 
 
