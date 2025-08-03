@@ -134,49 +134,34 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   
 <h2>My Skills:</h2>
-<h2>💻 Frontend Development</h2>
-- HTML5, CSS3, JavaScript (ES6+)
 
-- React.js (Hooks, Context API)
+### 💻 Frontend Development
+- ![HTML5](https://img.icons8.com/color/20/html-5.png) **HTML5**, ![CSS3](https://img.icons8.com/color/20/css3.png) **CSS3**, ![JavaScript](https://img.icons8.com/color/20/javascript.png) **JavaScript (ES6+)**
+- ![React](https://img.icons8.com/offices/20/react.png) **React.js** (Hooks, Context API)
+- ![Next.js](https://img.icons8.com/windows/20/nextjs.png) **Next.js** (App Router, SSR, ISR, SEO Optimisation)
+- ![Tailwind](https://img.icons8.com/color/20/tailwind_css.png) **Tailwind CSS**, ![DaisyUI](https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-daisyui-a-plugin-for-tailwind-css-components-logo-color-tal-revivo.png) **DaisyUI**
+- 📱 **Responsive Design** & 🌐 **Cross-Browser Compatibility**
+- 🎨 **Clean UI/UX** and 🧩 **Pixel-Perfect Design Implementation**
 
-- Next.js (App Router, SSR, ISR, SEO Optimisation)
+### ⚙️ Backend Development
+- ![Node.js](https://img.icons8.com/color/20/nodejs.png) **Node.js**, ![Express](https://img.icons8.com/ios-filled/20/000000/express-js.png) **Express.js**
+- 🔗 **REST API** Development & Integration
+- ![MongoDB](https://img.icons8.com/color/20/mongodb.png) **MongoDB (Mongoose)**, ![Firebase](https://img.icons8.com/color/20/firebase.png) **Firebase** (Basic Auth & DB)
+- 🔐 **JWT Authentication**, 🧑‍💼 **Role-based Access**
+- 🗂️ **MVC & Modular** Backend Structure
 
-- Tailwind CSS, DaisyUI
+### 🧰 Tools & Technologies
+- ![Git](https://img.icons8.com/color/20/git.png) **Git**, ![GitHub](https://img.icons8.com/ios-glyphs/20/github.png) **GitHub** (Branching, PR, CI/CD Basics)
+- 🧑‍💻 **VS Code**, 🔍 **Postman**, 🛠️ **Chrome DevTools**
+- 🚀 **Netlify**, **Vercel**, **Render** (Deployment)
+- 🖼️ **Figma to Code** Integration
 
-- Responsive Design & Cross-Browser Compatibility
+### 📚 Currently Learning
+- 📊 **Data Structures & Algorithms (DSA)** in JavaScript
+- 🏗️ **System Design Basics**
+- ✅ **Unit Testing (Jest)**, **Postman API Testing**
+- 🔐 **Security Best Practices** for Web Apps
 
-- Clean UI/UX and Pixel-Perfect Design Implementation
-
-<h2>⚙️ Backend Development</h2>
-
-- Node.js & Express.js
-
-- REST API Development & Integration
-
-- MongoDB (Mongoose), Firebase (basic auth & db)
-
-- JWT Authentication, Role-based Access
-
-- MVC & Modular Backend Structure
-
-<h2>🧰 Tools & Technologies</h2>
-- Git & GitHub (Branching, PR, CI/CD basics)
-
-- VS Code, Postman, Chrome DevTools
-
-- Netlify, Vercel, Render (Deployment)
-
-- Figma to Code Integration
-
-<h2>📚 Currently Learning</h2>
-
-- Data Structures & Algorithms (DSA) in JavaScript
-
-- System Design Basics
-
-- Unit Testing (Jest), Postman API Testing
-
-- Security Best Practices for Web Apps
 
 <h2> ### 📚 Training Background
 
