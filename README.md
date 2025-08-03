@@ -11,13 +11,12 @@
 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
  Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms  to become not just a developer, but an efficient engineer.
 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
-- 🔭 Currently working as a freelance Full Stack Developer.</h3><br>
-<h3>
+- 🔭 Currently working as a freelance Full Stack Developer.
 - 🛠️ Skilled in building scalable, responsive web applications.
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.
 - 🤝 Open to collaboration on meaningful web projects.
-- ✍️ Love to write clean, reusable, and optimised code.
-</h3>
+- ✍️ Love to write clean, reusable, and optimized code.
+
 <h2> How to reach me </h2>
 <br>
 <h3> 📧 Email: raselahmed199916@gmail.com <br>
