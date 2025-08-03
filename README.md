@@ -12,7 +12,7 @@
 🧠 Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
 🎯 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
  
-  ## 🧑‍💻 About Me
+  ## About Me
 
 - 🔭 Currently working as a freelance Full Stack Developer.
 - 🛠️ Skilled in building scalable, responsive web applications.
@@ -128,11 +128,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
 </p>
-## 📫 Contact Me
-
-- 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
-- 📞 Phone: [+8801703381338](tel:+8801703381338)
-
 
   </p>
   
@@ -172,6 +167,7 @@
 ✅ Figma to Code Integration
 
 <h2>📚 Currently Learning</h2>
+
 ✅ Data Structures & Algorithms (DSA) in JavaScript
 
 ✅ System Design Basics
@@ -180,7 +176,7 @@
 
 ✅ Security Best Practices for Web Apps
 
-<h2>## 📚 Training Background
+<h2> ### 📚 Training Background
 
 
 ### 🎓 Formal Trainings & Bootcamps
@@ -275,4 +271,7 @@
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 
 
--<h2> 📫 How to reach me **raselahmed199916@gmail.com**</h2>
+-<h2> 📫 How to reach me **raselahmed199916@gmail.com** - 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
+- 📞 Phone: [+8801703381338](tel:+8801703381338)
+
+</h2>
