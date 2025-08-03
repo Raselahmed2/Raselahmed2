@@ -211,8 +211,8 @@
 ---
 
 ### 🏅 Notable Certificates
- ![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)   **Phitron**
- ![Programming Hero](https://img.shields.io/badge/Programming%20Hero-Bootcamp-FF5722?logo=codeforces&logoColor=white) **Programming Hero**
+ ![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)   **Phitron**<br>
+ ![Programming Hero](https://img.shields.io/badge/Programming%20Hero-Bootcamp-FF5722?logo=codeforces&logoColor=white) **Programming Hero**<br>
 [![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)**Google IT Support Professional Certificate** *(Coursera)* <br>
 [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)* <br>
 [![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*<br>
@@ -252,10 +252,9 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
 </p>
 
-<details> 
   <h2>🏷️ Holopin Badges</h2>
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
+
 
 -<h2> 📫 How to reach me **raselahmed199916@gmail.com**</h2>
