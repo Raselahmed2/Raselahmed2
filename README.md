@@ -177,21 +177,21 @@
 
 | Title                                       | Topic / Focus                    | Platform / Mode             | Year | Duration    |
 |--------------------------------------------|----------------------------------|------------------------------|------|-------------|
-| Complete Android App Development Bootcamp  | Android App Development          | Online / International       | 2023 | 6 months     |
-| Database Design & SQL Optimization         | SQL Performance Optimization     | Online / International       | 2023 | 3 months     |
-| Version Control with Git & GitHub          | Source Code Management           | Online                       | 2023 | 2 months     |
+| Complete Web Development With Jhankar Mahbub |Web Development          |Programming Hero by Jhankar Mahbub   | 2022 | 6 months     |
+|  Advanced JavaScript (ES6+, Async, Promises, Closures, etc.)       |   | Online / International       | 2022 | 3 months     |
+| Version Control with Git & GitHub          | Source Code Management           | Online                       | 2022 | 2 months     |
 | Responsive UI Design & UX                  | UI/UX Principles                 | Online                       | 2023 | 2 months     |
 | Software Project Management & Agile Basics | Agile / Project Management       | Online                       | 2023 | 2 months     |
 | Mobile App Security Fundamentals           | Security                         | Online                       | 2023 | 1 month      |
-| REST API Integration (Retrofit, Volley)    | API Integration                  | Online                       | 2023 | 1 month      |
-| Android Jetpack & MVVM Architecture        | Android Architecture             | Online                       | 2023 | 2 months     |
-| Unit Testing & UI Testing for Android Apps | Testing                          | Online                       | 2023 | 1 month      |
+| REST API Integration (Retrofit, Volley)    | API Integration                  | Online                       | 2024 | 1 month      |
+| Android Jetpack & MVVM Architecture        | Android Architecture             | Online                       | 2024 | 2 months     |
+| Unit Testing & UI Testing for Android Apps | Testing                          | Online                       | 2024 | 1 month      |
 
 ---
 
 ### 🏅 Notable Certificates
 
-- 🧩 **Google IT Support Professional Certificate** *(Coursera)*
+[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)   **Google IT Support Professional Certificate** *(Coursera)*
 - 🧠 **CompTIA A+ Certification** *(Hardware + Software)*
 - 🌐 **Meta Frontend Developer Specialization** *(Coursera)*
 - 💻 **The Complete Web Developer Course** *(Udemy)*
@@ -226,7 +226,7 @@
 
 ### 🏅 Certifications
 
-[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)  
+
 [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)  
 [![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)  
 [![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)  
