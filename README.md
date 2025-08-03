@@ -8,12 +8,12 @@
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
-<h3  align="center">👋 Hi, I'm <h2>Rasel Ahmed</h2> a professional MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
+<h3  align="center"><h2>👋 Hi, I'm Rasel Ahmed</h2> <h2>a professional MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
 💻 With over 6 years of hands-on experience in web development, I specialize in building modern, responsive, and scalable web apps using React, Next.js, Tailwind CSS, Node.js, and MongoDB.
 🚀 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimized performance.
 🧠 Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
 🎯 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
-
+</h2>
 </h3>
 
 
