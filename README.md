@@ -128,46 +128,47 @@
   </p>
   
 <h2>My Skills:</h2>
+💻 Frontend Development
+✅ HTML5, CSS3, JavaScript (ES6+)
 
-<h3>
-<summary>Front-end Development:</summary>
- 
-  <br>
-I have a deep understanding of modern front-end technologies like React.js, Redux, HTML5, CSS3, and JavaScript. I'm proficient in creating responsive and user-friendly interfaces that deliver exceptional user experiences across various devices.
-<br><br>
-<summary>Back-end Development:</summary>
+✅ React.js (Hooks, Context API)
 
-  <br>
-With Node.js and Express.js, I'm well-versed in building robust and scalable server-side applications. I have experience in designing RESTful APIs, handling authentication, and implementing database interactions using MongoDB or other NoSQL databases.<br>
-  <br>
-<summary>Full-stack Development:</summary>
+✅ Next.js (App Router, SSR, ISR, SEO Optimization)
 
-  
-  <br>
-My expertise in both front-end and back-end development allows me to handle end-to-end development efficiently. I can seamlessly integrate the front-end and back-end components to create a fully functional and interactive web application.<br>
-<br>
-<summary>Database Management:</summary>
-  <br>
-I have worked extensively with MongoDB, designing and managing databases to ensure data integrity and efficient querying. I understand the importance of database optimization and can implement effective strategies for data storage and retrieval.<br>
-<br>
-<summary> Deployment and Version Control:</summary>
-<br>
-Proficient in using tools like Git and GitHub, I'm well-versed in version control and collaborative development. I have experience deploying applications on platforms like Heroku or AWS, ensuring smooth and continuous integration.<br>
-<br>
-<summary>Testing and Debugging:</summary>
-<br>
-I believe in writing clean and maintainable code. I conduct thorough testing and debugging to ensure that the applications I develop are stable, secure, and free from critical bugs.<br>
-<br>
-<summary>Problem-Solving and Adaptability:</summary><br>
-As a developer, I am always up for challenges. I enjoy problem-solving and believe in staying updated with the latest trends and technologies in the ever-evolving world of web development. I adapt quickly to new technologies, frameworks, and project requirements.
+✅ Tailwind CSS, DaisyUI
 
-</h3>
-## 📚 What I’m Currently Learning
+✅ Responsive Design & Cross-Browser Compatibility
 
-- 🔄 Deepening my knowledge in **Data Structures & Algorithms (DSA)** for better problem-solving
-- 🧩 Exploring **System Design** and clean code architecture
-- 🔐 Starting with **Web Application Security & Best Practices**
-- ✨ Improving performance optimization in **Next.js** and **React** apps
+✅ Clean UI/UX and Pixel-Perfect Design Implementation
+
+⚙️ Backend Development
+✅ Node.js & Express.js
+
+✅ REST API Development & Integration
+
+✅ MongoDB (Mongoose), Firebase (basic auth & db)
+
+✅ JWT Authentication, Role-based Access
+
+✅ MVC & Modular Backend Structure
+
+🧰 Tools & Technologies
+✅ Git & GitHub (Branching, PR, CI/CD basics)
+
+✅ VS Code, Postman, Chrome DevTools
+
+✅ Netlify, Vercel, Render (Deployment)
+
+✅ Figma to Code Integration
+
+📚 Currently Learning
+✅ Data Structures & Algorithms (DSA) in JavaScript
+
+✅ System Design Basics
+
+✅ Unit Testing (Jest), Postman API Testing
+
+✅ Security Best Practices for Web Apps
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
