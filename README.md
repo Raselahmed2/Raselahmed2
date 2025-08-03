@@ -8,7 +8,14 @@
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
-<h3  align="center">Hello! I'm a passionate and experienced MERN  Stack Developer from Bangladesh with a strong background in web development, passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind</h3>
+<h3  align="center">## 👋 About Me
+
+I'm **Rasel Ahmed**, a passionate and experienced **MERN Stack Developer** based in Sylhet, Bangladesh 🇧🇩.
+
+With over **6 years of experience** in web development and over **1.2 years with Next.js**, I've helped build fast, scalable, and user-friendly applications for both local and international teams. I love building modern UIs, solving real-world problems, and constantly pushing my technical boundaries.
+
+I’m also exploring **Data Structures & Algorithms** to strengthen my problem-solving skills for system-level thinking and clean architecture.
+</h3>
 
 
  <br>
