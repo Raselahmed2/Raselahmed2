@@ -20,8 +20,8 @@
 - 🤝 Open to collaboration on meaningful web projects.
 - ✍️ Love to write clean, reusable, and optimised code.
 <h2> 📫 How to reach me<br>
- 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
-- 📞 Phone: [+8801703381338](tel:+8801703381338)
+ 📧 Email: raselahmed199916@gmail.com
+- 📞 Phone: +8801703381338
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
@@ -135,48 +135,48 @@
   
 <h2>My Skills:</h2>
 <h2>💻 Frontend Development</h2>
-✅ HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+)
 
-✅ React.js (Hooks, Context API)
+- React.js (Hooks, Context API)
 
-✅ Next.js (App Router, SSR, ISR, SEO Optimisation)
+- Next.js (App Router, SSR, ISR, SEO Optimisation)
 
-✅ Tailwind CSS, DaisyUI
+- Tailwind CSS, DaisyUI
 
-✅ Responsive Design & Cross-Browser Compatibility
+- Responsive Design & Cross-Browser Compatibility
 
-✅ Clean UI/UX and Pixel-Perfect Design Implementation
+- Clean UI/UX and Pixel-Perfect Design Implementation
 
 <h2>⚙️ Backend Development</h2>
 
-✅ Node.js & Express.js
+- Node.js & Express.js
 
-✅ REST API Development & Integration
+- REST API Development & Integration
 
-✅ MongoDB (Mongoose), Firebase (basic auth & db)
+- MongoDB (Mongoose), Firebase (basic auth & db)
 
-✅ JWT Authentication, Role-based Access
+- JWT Authentication, Role-based Access
 
-✅ MVC & Modular Backend Structure
+- MVC & Modular Backend Structure
 
 <h2>🧰 Tools & Technologies</h2>
-✅ Git & GitHub (Branching, PR, CI/CD basics)
+- Git & GitHub (Branching, PR, CI/CD basics)
 
-✅ VS Code, Postman, Chrome DevTools
+- VS Code, Postman, Chrome DevTools
 
-✅ Netlify, Vercel, Render (Deployment)
+- Netlify, Vercel, Render (Deployment)
 
-✅ Figma to Code Integration
+- Figma to Code Integration
 
 <h2>📚 Currently Learning</h2>
 
-✅ Data Structures & Algorithms (DSA) in JavaScript
+- Data Structures & Algorithms (DSA) in JavaScript
 
-✅ System Design Basics
+- System Design Basics
 
-✅ Unit Testing (Jest), Postman API Testing
+- Unit Testing (Jest), Postman API Testing
 
-✅ Security Best Practices for Web Apps
+- Security Best Practices for Web Apps
 
 <h2> ### 📚 Training Background
 
