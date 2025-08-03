@@ -2,9 +2,8 @@
   <a href="https://github.com/Raselahmed2">
     <img src="https://github.com/Raselahmed2/profile-img.jpg/blob/main/Screenshot_50.jpg" alt="Rasel Ahmed" /></a>
 </p><p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=33F78F&width=435&lines=Hi%2C+I'm+Rasel+Ahmed;+Writing+Code+Since+2022;Full+Stack+Web+Development;+Mongo+%E2%AC%A9+Express+%E2%AC%A9+React+%E2%AC%A9+Node;+System+Design+%26+Architecture;Database+Design+(MongoDB))](https://git.io/typing-svg)ner | Evolving with Every Line of Code",
-];
-
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=33F78F&width=435&lines=Hi%2C+I'm+Rasel+Ahmed;+Writing+Code+Since+2022;Full+Stack+Web+Development;+Mongo+%E2%AC%A9+Express+%E2%AC%A9+React+%E2%AC%A9+Node;+System+Design+%26+Architecture;Database+Design+(MongoDB))](https://git.io/typing-svg)
+](https://readme-typing-svg.demolab.com/demo/?size=26&color=33F78F&lines=Hi%2C+I'm+Rasel+Ahmed;+Writing+Code+Since+2022;Full+Stack+Web+Development;+Mongo+%E2%AC%A9+Express+%E2%AC%A9+React+%E2%AC%A9+Node;+System+Design+%26+Architecture;Database+Design+(MongoDB))
 </p>
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
