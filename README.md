@@ -7,14 +7,20 @@
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
 <h1>👋 Hi, I'm Rasel Ahmed</h1>
-I'm a passionate MERN Stack Developer from Sylhet, Bangladesh 🇧🇩, focused on building fast, scalable, and user-friendly web applications.
-I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance. Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms  to become not just a developer, but an efficient engineer.
-I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
-- 🔭 Currently working as a freelance Full Stack Developer.
-- 🛠️ Skilled in building scalable, responsive web applications.
-- 🌱 Currently learning: Next.js, TypeScript, and Web Security.
-- 🤝 Open to collaboration on meaningful web projects.
-- ✍️ Love to write clean, reusable, and optimized code.
+a passionate MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
+
+I specialise in building fast, scalable, and user-friendly web applications using React, Next.js, Tailwind CSS, Node.js, and MongoDB.  
+I’ve worked remotely with international teams (India, UK), delivering real-world SaaS projects focused on clean code, pixel-perfect UI, and optimised performance.  
+Currently enhancing my problem-solving skills through deep work in Data Structures & Algorithms to become a more efficient and impactful engineer.  
+I'm client-focused, strategic, and committed to building products that make people's lives easier.
+
+---
+
+- 🔭 Currently working as a freelance Full Stack Developer.  
+- 🛠️ Skilled in building scalable, responsive web applications.  
+- 🌱 Currently learning: Next.js, TypeScript, and Web Security.  
+- 🤝 Open to collaboration on meaningful web projects.  
+- ✍️ Love to write clean, reusable, and optimized code.  
 
 <h2> How to reach me </h2>
 <br>
