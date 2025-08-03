@@ -10,9 +10,7 @@
 a passionate MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
 
 I specialise in building fast, scalable, and user-friendly web applications using React, Next.js, Tailwind CSS, Node.js, and MongoDB.  
-I’ve worked remotely with international teams (India, UK), delivering real-world SaaS projects focused on clean code, pixel-perfect UI, and optimised performance.  
-Currently enhancing my problem-solving skills through deep work in Data Structures & Algorithms to become a more efficient and impactful engineer.  
-I'm a client focused, strategic, and committed professional dedicated to building products that make people's lives easier.
+I’ve worked remotely with international teams (India, UK), delivering real-world SaaS projects focused on clean code, pixel-perfect UI, and optimised performance. Currently enhancing my problem-solving skills through deep work in Data Structures & Algorithms to become a more efficient and impactful engineer. I'm a client focused, strategic, and committed professional dedicated to building products that make people's lives easier.
 
 - 🔭 Currently working as a freelance Full Stack Developer.  
 - 🛠️ Skilled in building scalable, responsive web applications.  
