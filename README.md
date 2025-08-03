@@ -206,13 +206,9 @@
 - ![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)   **Phitron**
 - ![Code With Mosh](https://img.shields.io/badge/Code%20with%20Mosh-Courses-00897B?logo=udemy&logoColor=white)   **Code with Mosh**
 -  ![Udemy](https://img.shields.io/badge/Udemy-Video%20Courses-A435F0?logo=udemy&logoColor=white) **Udemy**
-- 
 ![Coursera](https://img.shields.io/badge/Coursera-Certifications-0056D2?logo=coursera&logoColor=white) **Coursera**
-- 💻 **freeCodeCamp**
 - 
-- ## 📚 Training & Certifications
-
-### 🧠 Training Highlights
+-  ### 🧠 Training Highlight
 
 [![Android Dev Bootcamp](https://img.shields.io/badge/Android%20Bootcamp-6%20Months-3DDC84?logo=android&logoColor=white)]()  
 [![SQL & DB Design](https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3%20Months-4479A1?logo=mysql&logoColor=white)]()  
