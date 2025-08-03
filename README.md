@@ -11,6 +11,15 @@
 🚀 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
 🧠 Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
 🎯 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
+ 
+  ## 🧑‍💻 About Me
+
+- 🔭 Currently working as a freelance Full Stack Developer.
+- 🛠️ Skilled in building scalable, responsive web applications.
+- 🌱 Currently learning: Next.js, TypeScript, and Web Security.
+- 🤝 Open to collaboration on meaningful web projects.
+- ✍️ Love to write clean, reusable, and optimised code.
+
 </h3>
 
 
@@ -119,8 +128,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
 </p>
+## 📫 Contact Me
 
-- 📫 How to reach me **raselahmed199916@gmail.com**
+- 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
+- 📞 Phone: [+8801703381338](tel:+8801703381338)
+
 
   </p>
   
@@ -220,6 +232,15 @@
 ---
 
 </h2>
+
+## 🌟 Soft Skills
+
+- ✅ Time Management
+- ✅ Communication
+- ✅ Teamwork
+- ✅ Problem Solving
+- ✅ Fast Learner
+- ✅ Adaptability
 
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
