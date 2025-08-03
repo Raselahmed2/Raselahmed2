@@ -6,22 +6,20 @@
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
-<h3  align="center"><h2>👋 Hi, I'm Rasel Ahmed</h2>a professional MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
-💻 With over 6 years of hands-on experience in web development, I specialise in building modern, responsive, and scalable web apps using React, Next.js, Tailwind CSS, Node.js, and MongoDB.
-🚀 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
-🧠 Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
-🎯 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
+<h3  align="center"><h2>👋 Hi, I'm Rasel Ahmed</h2>I'm a passionate **MERN Stack Developer** from **Sylhet, Bangladesh 🇧🇩**, focused on building fast, scalable, and user-friendly web applications.
+I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
+ Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms — to become not just a developer, but an efficient engineer.
+I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
  
-  ## About Me
 
 - 🔭 Currently working as a freelance Full Stack Developer.
 - 🛠️ Skilled in building scalable, responsive web applications.
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.
 - 🤝 Open to collaboration on meaningful web projects.
 - ✍️ Love to write clean, reusable, and optimised code.
-<h2> 📫 How to reach me<br>
- 📧 Email: raselahmed199916@gmail.com
-- 📞 Phone: +8801703381338
+<h2> How to reach me<br>
+ 📧 Email: raselahmed199916@gmail.com <br>
+-📞 Phone: +8801703381338
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
@@ -215,6 +213,73 @@
 ---
 
 </h2>
+
+## 💼 Work Experience
+
+### 🟡 Backend Developer  
+**Rightbiz (Remote)**  
+📅 *Dec 2024 – Present*  
+📌 *Expertise: Remote Work Efficiency (0.6 yr)*
+
+**Duties & Responsibilities:**
+- 🛠️ Developed and optimized SQL scripts for database integrity and performance  
+- 🔗 Built RESTful APIs for client-side integrations  
+- 🚀 Improved speed and scalability using caching and profiling  
+- 🧑‍🤝‍🧑 Collaborated via Git & version control best practices  
+- 🧾 Wrote technical documentation for internal APIs  
+- 🔄 Participated in Agile processes: sprint planning, daily standups, retrospectives
+
+---
+
+### 🟡 Senior Customer Support Executive  
+**Amber IT Ltd.**  
+📅 *Jun 2023 – Oct 2024*  
+📌 *Expertise: NICU Tech Support (1.3 yrs)*
+
+**Duties & Responsibilities:**
+- 📞 Provided Tier 1 & 2 support to fiber/broadband ISP users  
+- 🔧 Configured routers, modems, ONUs & resolved network issues  
+- 🗂️ Managed tickets and communication via CRM & call centers  
+- 🙋‍♂️ Helped customers adopt and effectively use technical products  
+- 🤝 Resolved high-priority customer complaints promptly
+
+---
+
+### 🔵 MERN Stack Developer  
+**Divami Design Labs (Hyderabad, India - Remote)**  
+📅 *Jan 2021 – Nov 2022*  
+📌 *Expertise: Web Developer / Designer (1.8 yrs)*
+
+**Duties & Responsibilities:**
+- 🧱 Developed user-friendly web interfaces using HTML, CSS, and JS  
+- 📱 Designed responsive, mobile-first features  
+- 🚀 Optimized applications for performance and speed  
+- 🎯 Collaborated with backend teams to ensure seamless UX  
+- 🧪 Gathered user feedback to improve usability
+
+---
+
+### 🧰 IT Technician  
+**Oasis Hospital, Sylhet**  
+📅 *Jan 2019 – Nov 2021*  
+📌 *Expertise: Local Support, Native Language Support (2.8 yrs)*
+
+**Duties & Responsibilities:**
+- 🖥️ Installed, maintained, and upgraded hardware/software systems  
+- 🌐 Resolved LAN/WAN issues and ensured secure connectivity  
+- 🧑‍🔧 Provided technical support to medical staff in real-time situations  
+- 📊 Maintained documentation for IT inventory and technical issues  
+- 🗣️ Communicated complex tech info in the local language to non-tech users
+
+### 🎓 Academic Background
+
+- **SSC (2018)** – General Education
+- **Diploma in Engineering – Computer Science**  
+Sylhet Polytechnic Institute  
+CGPA: **3.62**
+ Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
+  However, I self-taught myself programming and development over the years.
+
 
 ## 🌟 Soft Skills
 
