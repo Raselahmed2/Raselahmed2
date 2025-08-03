@@ -162,7 +162,12 @@ I believe in writing clean and maintainable code. I conduct thorough testing and
 As a developer, I am always up for challenges. I enjoy problem-solving and believe in staying updated with the latest trends and technologies in the ever-evolving world of web development. I adapt quickly to new technologies, frameworks, and project requirements.
 
 </h3>
+## 📚 What I’m Currently Learning
 
+- 🔄 Deepening my knowledge in **Data Structures & Algorithms (DSA)** for better problem-solving
+- 🧩 Exploring **System Design** and clean code architecture
+- 🔐 Starting with **Web Application Security & Best Practices**
+- ✨ Improving performance optimization in **Next.js** and **React** apps
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
