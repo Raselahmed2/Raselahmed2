@@ -130,10 +130,15 @@
 <h2>My Skills:</h2>
 <h2>💻 Frontend Development</h2>
 ✅ HTML5, CSS3, JavaScript (ES6+)
+
 ✅ React.js (Hooks, Context API)
+
 ✅ Next.js (App Router, SSR, ISR, SEO Optimization)
+
 ✅ Tailwind CSS, DaisyUI
+
 ✅ Responsive Design & Cross-Browser Compatibility
+
 ✅ Clean UI/UX and Pixel-Perfect Design Implementation
 
 <h2>⚙️ Backend Development</h2>
@@ -165,6 +170,46 @@
 ✅ Unit Testing (Jest), Postman API Testing
 
 ✅ Security Best Practices for Web Apps
+
+<h2>## 📚 Training Background
+
+### 🎓 Formal Trainings & Bootcamps
+
+| Title                                       | Topic / Focus                    | Platform / Mode             | Year | Duration    |
+|--------------------------------------------|----------------------------------|------------------------------|------|-------------|
+| Complete Android App Development Bootcamp  | Android App Development          | Online / International       | 2023 | 6 months     |
+| Database Design & SQL Optimization         | SQL Performance Optimization     | Online / International       | 2023 | 3 months     |
+| Version Control with Git & GitHub          | Source Code Management           | Online                       | 2023 | 2 months     |
+| Responsive UI Design & UX                  | UI/UX Principles                 | Online                       | 2023 | 2 months     |
+| Software Project Management & Agile Basics | Agile / Project Management       | Online                       | 2023 | 2 months     |
+| Mobile App Security Fundamentals           | Security                         | Online                       | 2023 | 1 month      |
+| REST API Integration (Retrofit, Volley)    | API Integration                  | Online                       | 2023 | 1 month      |
+| Android Jetpack & MVVM Architecture        | Android Architecture             | Online                       | 2023 | 2 months     |
+| Unit Testing & UI Testing for Android Apps | Testing                          | Online                       | 2023 | 1 month      |
+
+---
+
+### 🏅 Notable Certificates
+
+- 🧩 **Google IT Support Professional Certificate** *(Coursera)*
+- 🧠 **CompTIA A+ Certification** *(Hardware + Software)*
+- 🌐 **Meta Frontend Developer Specialization** *(Coursera)*
+- 💻 **The Complete Web Developer Course** *(Udemy)*
+- 🛠️ **IT Essentials** *(Cisco Networking Academy)*
+- 🌱 **CiscoFreeCodeCamp** *(free course)*
+
+---
+
+### 🧱 Learned From
+
+- 🎯 **Programming Hero**
+- 🚀 **Phitron**
+- 📘 **Code with Mosh**
+- 📺 **Udemy**
+- 🌐 **Coursera**
+- 💻 **freeCodeCamp**
+</h2>
+
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
