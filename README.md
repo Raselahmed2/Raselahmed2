@@ -197,21 +197,22 @@
 - ![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)   **Phitron**
 - ![Code With Mosh](https://img.shields.io/badge/Code%20with%20Mosh-Courses-00897B?logo=udemy&logoColor=white)   **Code with Mosh**
 -  ![Udemy](https://img.shields.io/badge/Udemy-Video%20Courses-A435F0?logo=udemy&logoColor=white) **Udemy**
-![Coursera](https://img.shields.io/badge/Coursera-Certifications-0056D2?logo=coursera&logoColor=white) **Coursera**
-[![Android Dev Bootcamp](https://img.shields.io/badge/Android%20Bootcamp-6%20Months-3DDC84?logo=android&logoColor=white)]()  
-[![SQL & DB Design](https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3%20Months-4479A1?logo=mysql&logoColor=white)]()  
-[![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-2%20Months-F05032?logo=git&logoColor=white)]()  
-[![UI/UX Design](https://img.shields.io/badge/Responsive%20UI%20%26%20UX-2%20Months-0C7CD5?logo=figma&logoColor=white)]()  
-[![Agile & PM](https://img.shields.io/badge/Agile%20%26%20Project%20Management-2%20Months-FBA919?logo=agile&logoColor=white)]()  
-[![App Security](https://img.shields.io/badge/Mobile%20App%20Security-1%20Month-FF6F61?logo=android&logoColor=white)]()  
-[![REST API](https://img.shields.io/badge/REST%20API%20(Volley%20%2F%20Retrofit)-1%20Month-6DB33F?logo=postman&logoColor=white)]()  
-[![Jetpack & MVVM](https://img.shields.io/badge/Jetpack%20%2F%20MVVM-2%20Months-999999?logo=android&logoColor=white)]()  
-[![Android Testing](https://img.shields.io/badge/Unit%20%2F%20UI%20Testing-1%20Month-E91E63?logo=testing-library&logoColor=white)]()
+- ![Coursera](https://img.shields.io/badge/Coursera-Certifications-0056D2?logo=coursera&logoColor=white) **Coursera**
+- [![Android Dev Bootcamp](https://img.shields.io/badge/Android%20Bootcamp-6%20Months-3DDC84?logo=android&logoColor=white)]()  
+- [![SQL & DB Design](https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3%20Months-4479A1?logo=mysql&logoColor=white)]()  
+- [![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-2%20Months-F05032?logo=git&logoColor=white)]()  
+- [![UI/UX Design](https://img.shields.io/badge/Responsive%20UI%20%26%20UX-2%20Months-0C7CD5?logo=figma&logoColor=white)]()  
+- [![Agile & PM](https://img.shields.io/badge/Agile%20%26%20Project%20Management-2%20Months-FBA919?logo=agile&logoColor=white)]()  
+- [![App Security](https://img.shields.io/badge/Mobile%20App%20Security-1%20Month-FF6F61?logo=android&logoColor=white)]()  
+- [![REST API](https://img.shields.io/badge/REST%20API%20(Volley%20%2F%20Retrofit)-1%20Month-6DB33F?logo=postman&logoColor=white)]()  
+- [![Jetpack & MVVM](https://img.shields.io/badge/Jetpack%20%2F%20MVVM-2%20Months-999999?logo=android&logoColor=white)]()  
+- [![Android Testing](https://img.shields.io/badge/Unit%20%2F%20UI%20Testing-1%20Month-E91E63?logo=testing-library&logoColor=white)]()
 
 ---
 
 ### 🏅 Notable Certificates
-
+ ![Phitron](https://img.shields.io/badge/Phitron-DSA%20%2B%20Problem%20Solving-0A66C2?logo=leetcode&logoColor=white)   **Phitron**
+ ![Programming Hero](https://img.shields.io/badge/Programming%20Hero-Bootcamp-FF5722?logo=codeforces&logoColor=white) **Programming Hero**
 [![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)**Google IT Support Professional Certificate** *(Coursera)* <br>
 [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)* <br>
 [![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*<br>
@@ -252,7 +253,7 @@
 </p>
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <h2>🏷️ Holopin Badges</h2>
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
