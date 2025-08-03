@@ -2,13 +2,7 @@
   <a href="https://github.com/Raselahmed2">
     <img src="https://github.com/Raselahmed2/profile-img.jpg/blob/main/Screenshot_50.jpg" alt="Rasel Ahmed" /></a>
 </p><p align="center">
- const animationText = [
-  "Crafting Code with Creativity & Care",
-  "MERN Stack Specialist | Mongo ⬩ Express ⬩ React ⬩ Node",
-  "Writing Code Since 2022 — Still Debugging Life",
-  "Cybersecurity Explorer | Web & App Security Enthusiast",
-  "Building Scalable & Secure Web Apps",
-  "Lifelong Learner | Evolving with Every Line of Code",
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=33F78F&width=435&lines=Hi%2C+I'm+Rasel+Ahmed;+Writing+Code+Since+2022;Full+Stack+Web+Development;+Mongo+%E2%AC%A9+Express+%E2%AC%A9+React+%E2%AC%A9+Node;+System+Design+%26+Architecture;Database+Design+(MongoDB))](https://git.io/typing-svg)ner | Evolving with Every Line of Code",
 ];
 
 </p>
