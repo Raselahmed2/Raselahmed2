@@ -6,8 +6,8 @@
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
   </p>
-<h2>👋 Hi, I'm Rasel Ahmed</h2>
-<h3></h3>I'm a passionate MERN Stack Developer from **Sylhet, Bangladesh 🇧🇩 , focused on building fast, scalable, and user-friendly web applications.
+<h1>👋 Hi, I'm Rasel Ahmed</h1>
+<h3> I'm a passionate MERN Stack Developer from **Sylhet, Bangladesh 🇧🇩 , focused on building fast, scalable, and user-friendly web applications.
 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
  Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms  to become not just a developer, but an efficient engineer.
 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
