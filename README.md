@@ -191,13 +191,11 @@
 
 ### 🏅 Notable Certificates
 
-[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)   **Google IT Support Professional Certificate** *(Coursera)*
-
-[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)*
-[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*
-[![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)   **The Complete Web Developer Course** *(Udemy)*
-[![IT Essentials](https://img.shields.io/badge/IT%20Essentials-Cisco%20Networking%20Academy-1D9BF0?logo=cisco&logoColor=white)](https://skillsforall.com)   **IT Essentials** *(Cisco Networking Academy)*
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Basic%20Foundations-0A0A23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
+[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Coursera-4285F4?logo=google&logoColor=white)](https://coursera.org)**Google IT Support Professional Certificate** *(Coursera)* <br>
+[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-EA3E2D?logo=comptia&logoColor=white)](https://www.comptia.org)   **CompTIA A+ Certification** *(Hardware + Software)* <br>
+[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1877F2?logo=meta&logoColor=white)](https://coursera.org)   **Meta Frontend Developer Specialization** *(Coursera)*<br>
+[![Web Dev Udemy](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-Complete-A435F0?logo=udemy&logoColor=white)](https://udemy.com)   **The Complete Web Developer Course** *(Udemy)* <br>
+[![IT Essentials](https://img.shields.io/badge/IT%20Essentials-Cisco%20Networking%20Academy-1D9BF0?logo=cisco&logoColor=white)](https://skillsforall.com)   **IT Essentials** *(Cisco Networking Academy)* <br>
  [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Basic%20Foundations-0A0A23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org) **CiscoFreeCodeCamp** *(free course)*
 
 ---
