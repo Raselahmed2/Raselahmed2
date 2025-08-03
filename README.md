@@ -11,7 +11,6 @@
 I’ve worked remotely with international teams (India, UK) delivering real-world projects and SaaS solutions. My work blends clean code, pixel-perfect UI, and optimised performance.
  Currently enhancing my problem-solving skills by diving deep into Data Structures & Algorithms  to become not just a developer, but an efficient engineer.
 I’m strategic, client-focused, and driven by the goal of building impactful products that make life easier.
- <br>
 - 🔭 Currently working as a freelance Full Stack Developer.
 - 🛠️ Skilled in building scalable, responsive web applications.
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.
@@ -32,6 +31,7 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 
 
  <br>
+ <h1>
    <summary><h2>🛠️ My Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -161,7 +161,7 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 - ✅ **Unit Testing (Jest)**, **Postman API Testing**
 - 🔐 **Security Best Practices** for Web Apps
 
-
+</h1>
 <h1> ### 📚 Training Background
 
 
