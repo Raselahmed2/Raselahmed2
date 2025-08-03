@@ -19,6 +19,15 @@
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.
 - 🤝 Open to collaboration on meaningful web projects.
 - ✍️ Love to write clean, reusable, and optimised code.
+<h2> 📫 How to reach me<br>
+ 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
+- 📞 Phone: [+8801703381338](tel:+8801703381338)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
+</p>
+
+</h2>
 
 </h3>
 
@@ -123,13 +132,6 @@
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
-</p>
-
-  </p>
   
 <h2>My Skills:</h2>
 <h2>💻 Frontend Development</h2>
@@ -266,13 +268,3 @@
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 
 
--<h2> 📫 How to reach me
- 📧 Email: [raselahmed199916@gmail.com](mailto:raselahmed199916@gmail.com)
-- 📞 Phone: [+8801703381338](tel:+8801703381338)
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasel-ahmed-820b18246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasel-ahmed-820b18246/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
-</p>
-
-</h2>
