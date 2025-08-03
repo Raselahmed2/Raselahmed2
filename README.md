@@ -17,7 +17,8 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.
 - 🤝 Open to collaboration on meaningful web projects.
 - ✍️ Love to write clean, reusable, and optimised code.
-<h2> How to reach me<br>
+<h2> How to reach me </h2>
+<br>
  📧 Email: raselahmed199916@gmail.com <br>
 -📞 Phone: +8801703381338
 <p align="left">
@@ -25,7 +26,6 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
 </p>
 
-</h2>
 
 </h3>
 
@@ -136,13 +136,13 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 ### 💻 Frontend Development
 - ![HTML5](https://img.icons8.com/color/20/html-5.png) **HTML5**, ![CSS3](https://img.icons8.com/color/20/css3.png) **CSS3**, ![JavaScript](https://img.icons8.com/color/20/javascript.png) **JavaScript (ES6+)**
 - ![React](https://img.icons8.com/offices/20/react.png) **React.js** (Hooks, Context API)
-- ![Next.js](https://img.icons8.com/windows/20/nextjs.png) **Next.js** (App Router, SSR, ISR, SEO Optimisation)
-- ![Tailwind](https://img.icons8.com/color/20/tailwind_css.png) **Tailwind CSS**, ![DaisyUI](https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-daisyui-a-plugin-for-tailwind-css-components-logo-color-tal-revivo.png) **DaisyUI**
+- **Next.js** (App Router, SSR, ISR, SEO Optimisation)
+- ![Tailwind](https://img.icons8.com/color/20/tailwind_css.png) **Tailwind CSS**,  **DaisyUI**
 - 📱 **Responsive Design** & 🌐 **Cross-Browser Compatibility**
 - 🎨 **Clean UI/UX** and 🧩 **Pixel-Perfect Design Implementation**
 
 ### ⚙️ Backend Development
-- ![Node.js](https://img.icons8.com/color/20/nodejs.png) **Node.js**, ![Express](https://img.icons8.com/ios-filled/20/000000/express-js.png) **Express.js**
+- ![Node.js](https://img.icons8.com/color/20/nodejs.png) **Node.js**,  **Express.js**
 - 🔗 **REST API** Development & Integration
 - ![MongoDB](https://img.icons8.com/color/20/mongodb.png) **MongoDB (Mongoose)**, ![Firebase](https://img.icons8.com/color/20/firebase.png) **Firebase** (Basic Auth & DB)
 - 🔐 **JWT Authentication**, 🧑‍💼 **Role-based Access**
@@ -276,9 +276,9 @@ I’m strategic, client-focused, and driven by the goal of building impactful pr
 - **SSC (2018)** – General Education
 - **Diploma in Engineering – Computer Science**  
 Sylhet Polytechnic Institute  
-CGPA: **3.62**
- Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
-  However, I self-taught myself programming and development over the years.
+CGPA: **3.62**<br>
+<P> Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
+However, I self-taught myself programming and development over the years.</P>
 
 
 ## 🌟 Soft Skills
