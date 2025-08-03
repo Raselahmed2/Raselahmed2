@@ -2,8 +2,15 @@
   <a href="https://github.com/Raselahmed2">
     <img src="https://github.com/Raselahmed2/profile-img.jpg/blob/main/Screenshot_50.jpg" alt="Rasel Ahmed" /></a>
 </p><p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=05C46B&background=0A3D6200&vCenter=true&width=464&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Rasel+Ahmed++;Your+Friendly+Web+Developer!;MERN+stack+web+developer+;Always+learning+new+things;3+Years+off+Coding+Experience" alt="Typing SVG" /></a>
-  
+ const animationText = [
+  "Crafting Code with Creativity & Care",
+  "MERN Stack Specialist | Mongo ⬩ Express ⬩ React ⬩ Node",
+  "Writing Code Since 2022 — Still Debugging Life",
+  "Cybersecurity Explorer | Web & App Security Enthusiast",
+  "Building Scalable & Secure Web Apps",
+  "Lifelong Learner | Evolving with Every Line of Code",
+];
+
 </p>
 <p align="center">
   <img   src="https://github.com/Raselahmed2/pfofile-banner/blob/main/gif3.gif?raw=true"alt="Coding" width="400" style="max-width: 100%;display: inline-block; margin: 0 auto;">
