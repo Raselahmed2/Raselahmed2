@@ -128,20 +128,16 @@
   </p>
   
 <h2>My Skills:</h2>
-💻 Frontend Development
+<h2>💻 Frontend Development</h2>
 ✅ HTML5, CSS3, JavaScript (ES6+)
-
 ✅ React.js (Hooks, Context API)
-
 ✅ Next.js (App Router, SSR, ISR, SEO Optimization)
-
 ✅ Tailwind CSS, DaisyUI
-
 ✅ Responsive Design & Cross-Browser Compatibility
-
 ✅ Clean UI/UX and Pixel-Perfect Design Implementation
 
-⚙️ Backend Development
+<h2>⚙️ Backend Development</h2>
+
 ✅ Node.js & Express.js
 
 ✅ REST API Development & Integration
@@ -152,7 +148,7 @@
 
 ✅ MVC & Modular Backend Structure
 
-🧰 Tools & Technologies
+<h2>🧰 Tools & Technologies</h2>
 ✅ Git & GitHub (Branching, PR, CI/CD basics)
 
 ✅ VS Code, Postman, Chrome DevTools
@@ -161,7 +157,7 @@
 
 ✅ Figma to Code Integration
 
-📚 Currently Learning
+<h2>📚 Currently Learning</h2>
 ✅ Data Structures & Algorithms (DSA) in JavaScript
 
 ✅ System Design Basics
@@ -203,4 +199,4 @@
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
 
-- 📫 How to reach me **raselahmed199916@gmail.com**
+-<h2> 📫 How to reach me **raselahmed199916@gmail.com**</h2>
