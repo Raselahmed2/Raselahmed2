@@ -297,7 +297,7 @@ However, I self-taught myself programming and development over the years.</P>
 - ✅ Fast Learner
 - ✅ Adaptability
 
-
+------
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -310,6 +310,7 @@ However, I self-taught myself programming and development over the years.</P>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
+------
   <h3>💻 GitHub Profile Stats</h3>
 
 
@@ -320,6 +321,8 @@ However, I self-taught myself programming and development over the years.</P>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+------
+ 
   <h2>🏷️ Holopin Badges</h2>
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
