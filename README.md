@@ -284,8 +284,9 @@ CGPA: **3.62**<br>
 <P> Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
 However, I self-taught myself programming and development over the years.</P>
 </h1>
+
 ------
-------
+
 
 ## 🌟 Soft Skills
 
