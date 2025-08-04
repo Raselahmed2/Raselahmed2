@@ -272,6 +272,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 - 🧑‍🔧 Provided technical support to medical staff in real-time situations  
 - 📊 Maintained documentation for IT inventory and technical issues  
 - 🗣️ Communicated complex tech info in the local language to non-tech users
+  
+------
 
 ### 🎓 Academic Background
 
@@ -282,6 +284,8 @@ CGPA: **3.62**<br>
 <P> Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
 However, I self-taught myself programming and development over the years.</P>
 </h1>
+------
+------
 
 ## 🌟 Soft Skills
 
