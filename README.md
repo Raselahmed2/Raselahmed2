@@ -133,8 +133,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   
-<h2> My Skills: </h2>
- ------
+ My Skills: 
+ ---
 ### 💻 Frontend Development 
 - ![HTML5](https://img.icons8.com/color/20/html-5.png) **HTML5**, ![CSS3](https://img.icons8.com/color/20/css3.png) **CSS3**, ![JavaScript](https://img.icons8.com/color/20/javascript.png) **JavaScript (ES6+)**
 - ![React](https://img.icons8.com/offices/20/react.png) **React.js** (Hooks, Context API)
