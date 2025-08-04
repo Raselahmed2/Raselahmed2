@@ -10,7 +10,7 @@
 <h2> A passionate MERN Stack Developer from Sylhet, Bangladesh 🇧🇩
 
 I specialise in building fast, scalable, and user-friendly web applications using React, Next.js, Tailwind CSS, Node.js, and MongoDB.  
-I’ve worked remotely with international teams (India, UK), delivering real-world SaaS projects focused on clean code, pixel-perfect UI, and optimised performance. Currently enhancing my problem-solving skills through deep work in Data Structures & Algorithms to become a more efficient and impactful engineer. I'm a client focused, strategic, and committed professional dedicated to building products that make people's lives easier.
+I’ve worked remotely with international teams (India, UK), delivering real-world SaaS projects focused on clean code, pixel-perfect UI, and optimised performance. Currently enhancing my problem-solving skills through deep work in Data Structures & Algorithms to become a more efficient and impactful engineer. I'm a client-focused, strategic, and committed professional dedicated to building products that make people's lives easier.
 
 - 🔭 Currently working as a freelance Full Stack Developer.  
 - 🛠️ Skilled in building scalable, responsive web applications.  
@@ -224,7 +224,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 📌 *Expertise: Remote Work Efficiency (0.6 yr)*
 
 **Duties & Responsibilities:**
-- 🛠️ Developed and optimized SQL scripts for database integrity and performance  
+- 🛠️ Developed and optimised SQL scripts for database integrity and performance  
 - 🔗 Built RESTful APIs for client-side integrations  
 - 🚀 Improved speed and scalability using caching and profiling  
 - 🧑‍🤝‍🧑 Collaborated via Git & version control best practices  
@@ -239,9 +239,9 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 📌 *Expertise: NICU Tech Support (1.3 yrs)*
 
 **Duties & Responsibilities:**
-- 📞 Provided Tier 1 & 2 support to fiber/broadband ISP users  
+- 📞 Provided Tier 1 & 2 support to fibre/broadband ISP users  
 - 🔧 Configured routers, modems, ONUs & resolved network issues  
-- 🗂️ Managed tickets and communication via CRM & call centers  
+- 🗂️ Managed tickets and communication via CRM & call centres  
 - 🙋‍♂️ Helped customers adopt and effectively use technical products  
 - 🤝 Resolved high-priority customer complaints promptly
 
@@ -255,7 +255,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 **Duties & Responsibilities:**
 - 🧱 Developed user-friendly web interfaces using HTML, CSS, and JS  
 - 📱 Designed responsive, mobile-first features  
-- 🚀 Optimized applications for performance and speed  
+- 🚀 Optimised applications for performance and speed  
 - 🎯 Collaborated with backend teams to ensure seamless UX  
 - 🧪 Gathered user feedback to improve usability
 
