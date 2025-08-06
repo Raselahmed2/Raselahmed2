@@ -30,7 +30,6 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 
 </h3>
 
-
  <br>
  <h1>
    <summary><h2>🛠️ My Tools</h2></summary>
