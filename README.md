@@ -300,7 +300,7 @@ However, I self-taught myself programming and development over the years.</P>
 - ✅ Adaptability
 
 ------
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+ <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -311,6 +311,7 @@ However, I self-taught myself programming and development over the years.</P>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+
 
 ------
   <h3>💻 GitHub Profile Stats</h3>
