@@ -239,7 +239,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🟡 Senior Customer Support Executive  
 **Amber IT Ltd.**  
 📅 *Jun 2023 – Oct 2024*  
-📌 *Expertise: NICU Tech Support (1.3 yrs)*
+📌 *Expertise: Call Center (0.5 yr), Call Centre Supervision/ Management (0.2 yr), Customer relationship (0.2 yr)*
 
 **Duties & Responsibilities:**
 - 📞 Provided Tier 1 & 2 support to fibre/broadband ISP users  
@@ -267,7 +267,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🧰 IT Technician  
 **Oasis Hospital, Sylhet**  
 📅 *Jan 2019 – Nov 2021*  
-📌 *Expertise: Local Support, Native Language Support (2.8 yrs)*
+📌 *Expertise: IT Troubleshooting (0.2 yr), Networking (0.2 yr), Technical Support IT (0.6 yr) *
 
 **Duties & Responsibilities:**
 - 🖥️ Installed, maintained, and upgraded hardware/software systems  
