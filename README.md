@@ -27,8 +27,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018305687310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018305687310" height="30" width="40" /></a>
 </p>
 
-
 </h3>
+
  <br>
  
  <h1>
