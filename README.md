@@ -108,7 +108,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
   </p>
 
   <h3>💻 Software and Tools</h3>
----
+  
 <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
