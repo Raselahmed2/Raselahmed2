@@ -64,6 +64,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
   </p>
 
   <h3>🧰Frameworks and Libraries</h3>
+  
 ---
 <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -241,7 +242,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🟡 Senior Customer Support Executive  
 **Amber IT Ltd.**  
 📅 *Jun 2023 – Oct 2024*  
-📌 *Expertise: Call Center (0.5 yr), Call Centre Supervision/ Management (0.2 yr), Customer relationship (0.2 yr)*
+📌 *Expertise: Call Centre (0.5 yr), Call Centre Supervision/ Management (0.2 yr), Customer relationship (0.2 yr)*
 
 **Duties & Responsibilities:**
 - 📞 Provided Tier 1 & 2 support to fibre/broadband ISP users  
