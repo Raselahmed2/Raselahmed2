@@ -290,7 +290,6 @@ However, I self-taught myself programming and development over the years.</P>
 
 ------
 
-
 ## 🌟 Soft Skills
 
 - ✅ Time Management
