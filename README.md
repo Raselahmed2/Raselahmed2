@@ -66,8 +66,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 
 
   <h3>🧰Frameworks and Libraries</h3>
-  
----
+  ---
 <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
