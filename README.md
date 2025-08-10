@@ -170,6 +170,18 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 - ✅ **Unit Testing (Jest)**, **Postman API Testing**
 - 🔐 **Security Best Practices** for Web Apps
 
+  ### 🎓 Academic Background
+
+- **SSC (2018)** – General Education
+- **Diploma in Engineering – Computer Science**  
+Sylhet Polytechnic Institute  
+CGPA: **3.62**<br>
+<P> Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
+However, I self-taught myself programming and development over the years.</P>
+</h1>
+
+------
+
 <h1> ### 📚 Training Background </h1>
 
 ---
