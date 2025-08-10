@@ -170,6 +170,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 - ✅ **Unit Testing (Jest)**, **Postman API Testing**
 - 🔐 **Security Best Practices** for Web Apps
 
+------
+
   ### 🎓 Academic Background
 
 - **SSC (2018)** – General Education
