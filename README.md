@@ -36,7 +36,6 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
   
    <summary><h2>🛠️ My Tools </h2></summary>
 
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
