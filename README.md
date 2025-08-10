@@ -278,6 +278,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 📌 *Expertise: IT Troubleshooting (0.2 yr), Networking (0.2 yr), Technical Support IT (0.6 yr) *
 
 **Duties & Responsibilities:**
+
 - 🖥️ Installed, maintained, and upgraded hardware/software systems  
 - 🌐 Resolved LAN/WAN issues and ensured secure connectivity  
 - 🧑‍🔧 Provided technical support to medical staff in real-time situations  
