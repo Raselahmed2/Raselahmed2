@@ -259,7 +259,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🔵 MERN Stack Developer  
 **Divami Design Labs (Hyderabad, India - Remote)**  
 📅 *Jan 2021 – Nov 2022*  
-📌 *Expertise:HTML5 & CSS3 (0.3 yr), JavaScript (0.7 yr), Web Developer/ Web Designer (1.8 yrs)
+📌 *Expertise: HTML5 & CSS3 (0.3 yr), JavaScript (0.7 yr), Web Developer/ Web Designer (1.8 yrs)
 *
 
 **Duties & Responsibilities:**
@@ -286,17 +286,7 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
   
 ------
 
-### 🎓 Academic Background
 
-- **SSC (2018)** – General Education
-- **Diploma in Engineering – Computer Science**  
-Sylhet Polytechnic Institute  
-CGPA: **3.62**<br>
-<P> Couldn’t continue formal higher studies due to early marriage and family responsibilities.  
-However, I self-taught myself programming and development over the years.</P>
-</h1>
-
-------
 
 ## 🌟 Soft Skills
 
