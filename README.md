@@ -259,7 +259,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🔵 MERN Stack Developer  
 **Divami Design Labs (Hyderabad, India - Remote)**  
 📅 *Jan 2021 – Nov 2022*  
-📌 *Expertise: Web Developer / Designer (1.8 yrs)*
+📌 *Expertise:HTML5 & CSS3 (0.3 yr), JavaScript (0.7 yr), Web Developer/ Web Designer (1.8 yrs)
+*
 
 **Duties & Responsibilities:**
 - 🧱 Developed user-friendly web interfaces using HTML, CSS, and JS  
