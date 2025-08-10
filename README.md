@@ -229,7 +229,8 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 ### 🟡 Backend Developer  
 **Rightbiz (Remote)**  
 📅 *Dec 2024 – Present*  
-📌 *Expertise: Remote Work Efficiency (0.6 yr)*
+📌 *Expertise: API Development (0.7 yr), Backend Database Design (0.2 yr), Docker and Kubernetes (0.2 yr)
+*
 
 **Duties & Responsibilities:**
 - 🛠️ Developed and optimised SQL scripts for database integrity and performance  
