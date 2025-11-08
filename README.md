@@ -17,7 +17,6 @@ I’ve worked remotely with international teams (India, UK), delivering real-wor
 - 🌱 Currently learning: Next.js, TypeScript, and Web Security.  
 - 🤝 Open to collaboration on meaningful web projects.  
 - ✍️ Love to write clean, reusable, and optimised code.  </h2>
-
 <h2> How to reach me </h2>
 <br>
 <h3> 📧 Email: raselahmed199916@gmail.com <br>
